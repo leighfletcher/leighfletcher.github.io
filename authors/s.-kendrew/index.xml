@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Kendrew on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/authors/s.-kendrew/</link>
+    <description>Recent content in S. Kendrew on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/authors/s.-kendrew/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Telling twins apart: exo-Earths and Venuses with transit spectroscopy</title>
+      <link>https://leighfletcher.github.io/publication/2016-mnras-458-2657-b/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2016-mnras-458-2657-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erratum: Transit spectroscopy with JWST: systematics, star-spots and stitching</title>
+      <link>https://leighfletcher.github.io/publication/2015-mnras-451-1306-b/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2015-mnras-451-1306-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transit spectroscopy with James Webb Space Telescope: systematics, starspots and stitching</title>
+      <link>https://leighfletcher.github.io/publication/2015-mnras-448-2546-b/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2015-mnras-448-2546-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ice Giant on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/tags/ice-giant/</link>
+    <description>Recent content in Ice Giant on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/tags/ice-giant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uranus Pathfinder: exploring the origins and evolution of Ice Giant planets</title>
+      <link>https://leighfletcher.github.io/publication/2012-ex-a-33-753-a/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2012-ex-a-33-753-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

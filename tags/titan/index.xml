@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titan on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/tags/titan/</link>
+    <description>Recent content in Titan on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/tags/titan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oxygen compounds in Titan&#39;s stratosphere as observed by Cassini CIRS</title>
+      <link>https://leighfletcher.github.io/publication/2007-icar-186-354-d/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2007-icar-186-354-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertical profiles of HCN, HC $_3$N, and C $_2$H $_2$ in Titan&#39;s atmosphere derived from Cassini/CIRS data</title>
+      <link>https://leighfletcher.github.io/publication/2007-icar-186-364-t/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2007-icar-186-364-t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

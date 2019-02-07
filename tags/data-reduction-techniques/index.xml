@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data reduction techniques on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/tags/data-reduction-techniques/</link>
+    <description>Recent content in Data reduction techniques on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/tags/data-reduction-techniques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reanalysis of Uranus&#39; cloud scattering properties from IRTF/SpeX observations using a self-consistent scattering cloud retrieval scheme</title>
+      <link>https://leighfletcher.github.io/publication/2015-icar-250-462-i/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2015-icar-250-462-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

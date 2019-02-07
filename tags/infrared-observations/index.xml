@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infrared observations on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/tags/infrared-observations/</link>
+    <description>Recent content in infrared observations on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/tags/infrared-observations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Observations and Modeling of Jupiter&#39;s Quasi-Quadrennial Oscillation</title>
+      <link>https://leighfletcher.github.io/publication/2017-jgre-122-2719-c/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2017-jgre-122-2719-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T.~M. Evans on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/authors/t.~m.-evans/</link>
+    <description>Recent content in T.~M. Evans on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/authors/t.~m.-evans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The optical transmission spectrum of the hot Jupiter HAT-P-32b: clouds explain the absence of broad spectral features?</title>
+      <link>https://leighfletcher.github.io/publication/2013-mnras-436-2974-g/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2013-mnras-436-2974-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Gemini ground-based transmission spectrum of WASP-29b: a featureless spectrum from 515 to 720 nm</title>
+      <link>https://leighfletcher.github.io/publication/2013-mnras-428-3680-g/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2013-mnras-428-3680-g/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
