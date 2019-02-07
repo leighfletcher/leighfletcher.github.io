@@ -119,13 +119,27 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Group Members</title>
+      <link>https://leighfletcher.github.io/home/group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/home/group/</guid>
+      <description>I manage the planetary atmospheres team at the University of Leicester.
+Current postdoctoral research associates: * Dr. Henrik Melin * Dr. Arrate Antunano * Dr. James Blake * Dr. Michael Roman
+Current PhD students: * Padraig Donnelly (Jupiter during Juno) * Naomi Rowe-Gurney (Ice Giants from Spitzer) * Oliver King (Galilean Satellites from VLT)
+Former PhD students: * Dr. Jaemin Lee (Exoplanet retrievals) * Dr. Rohini Giles (Jupiter&amp;rsquo;s middle atmosphere)</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
       <link>https://leighfletcher.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description>I supervise graduate (PhD) students, Masters research projects (4th year undergraduates) and advanced reading projects, and 3rd-year BA projects.
+In addition, I manage the Summer Undergraduate Research Experience (SURE) on behalf of the Physics and Astronomy Department.
+I have previously served as a tutor for Atmospheric and Climate Physics, Astrophysics, Fluid Flows and Complexity, Exoplanet Atmospheres.
+#This is an example of using the custom widget to create your own homepage section.</description>
     </item>
     
     <item>
