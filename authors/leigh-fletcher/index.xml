@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leigh Fletcher on Leigh Fletcher</title>
-    <link>https://leighfletcher.github.io/</link>
-    <description>Recent content in Leigh Fletcher on Leigh Fletcher</description>
+    <title>Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/authors/leigh-fletcher/</link>
+    <description>Recent content on Leigh Fletcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Feb 2019 21:40:42 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://leighfletcher.github.io/authors/leigh-fletcher/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>New Website</title>
@@ -15,10 +17,7 @@
       <pubDate>Thu, 07 Feb 2019 21:40:42 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/post/new-website/</guid>
-      <description>&lt;p&gt;This is a first attempt at a blog post.  It&amp;rsquo;s taken some time to get started
-with this Academic theme for Hugo, but I&amp;rsquo;m now starting to get to grips with the
-process&amp;hellip; I hope!&lt;/p&gt;
-</description>
+      <description>This is a first attempt at a blog post. It&amp;rsquo;s taken some time to get started with this Academic theme for Hugo, but I&amp;rsquo;m now starting to get to grips with the process&amp;hellip; I hope!</description>
     </item>
     
   </channel>
