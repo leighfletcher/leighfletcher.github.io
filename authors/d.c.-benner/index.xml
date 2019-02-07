@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.C. Benner on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/authors/d.c.-benner/</link>
+    <description>Recent content in D.C. Benner on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/authors/d.c.-benner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Line shape parameters of PH$_3$ transitions in the Pentad near 4-5 um: Self-broadened widths, shifts, line mixing and speed dependence</title>
+      <link>https://leighfletcher.github.io/publication/2014-j-mo-sp-302-17-m/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2014-j-mo-sp-302-17-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line positions and intensities of the phosphine (PH$_3$) Pentad near 4.5 um</title>
+      <link>https://leighfletcher.github.io/publication/2014-j-mo-sp-298-11-m/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2014-j-mo-sp-298-11-m/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

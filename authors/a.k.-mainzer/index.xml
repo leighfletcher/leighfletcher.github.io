@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.K. Mainzer on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/authors/a.k.-mainzer/</link>
+    <description>Recent content in A.K. Mainzer on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/authors/a.k.-mainzer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mid-infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: 1. Determination of the mean temperature structure of the upper troposphere and stratosphere</title>
+      <link>https://leighfletcher.github.io/publication/2014-icar-243-494-o/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2014-icar-243-494-o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mid-infrared spectroscopy of Uranus from the Spitzer infrared spectrometer: 2. Determination of the mean composition of the upper troposphere and stratosphere</title>
+      <link>https://leighfletcher.github.io/publication/2014-icar-243-471-o/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/2014-icar-243-471-o/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
