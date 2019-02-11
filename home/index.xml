@@ -110,6 +110,15 @@
     </item>
     
     <item>
+      <title>Group</title>
+      <link>https://leighfletcher.github.io/home/group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/home/group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://leighfletcher.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,24 +128,12 @@
     </item>
     
     <item>
-      <title>Group Members</title>
-      <link>https://leighfletcher.github.io/home/group/</link>
+      <title>Team</title>
+      <link>https://leighfletcher.github.io/home/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://leighfletcher.github.io/home/group/</guid>
-      <description>I manage the planetary atmospheres team at the University of Leicester.
-Current postdoctoral research associates:
- Dr. Henrik Melin
- Dr. Arrate Antunano
- Dr. James Blake
- Dr. Michael Roman
-  Current PhD students:
- Padraig Donnelly (Jupiter during Juno)
- Naomi Rowe-Gurney (Ice Giants from Spitzer)
- Oliver King (Galilean Satellites from VLT)
-  Former PhD students:
- Dr. Jaemin Lee (Exoplanet retrievals)
- Dr. Rohini Giles (Jupiter&amp;rsquo;s middle atmosphere)</description>
+      <guid>https://leighfletcher.github.io/home/team/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -6,8 +6,27 @@
     <description>Recent content in Leigh Fletcher on Leigh Fletcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Feb 2019 21:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 21:31:23 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arrate Antunano</title>
+      <link>https://leighfletcher.github.io/group/arrate-antunano/</link>
+      <pubDate>Mon, 11 Feb 2019 21:31:23 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/group/arrate-antunano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henrik Melin</title>
+      <link>https://leighfletcher.github.io/group/henrik-melin/</link>
+      <pubDate>Mon, 11 Feb 2019 21:31:10 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/group/henrik-melin/</guid>
+      <description>&lt;p&gt;Henrik Melin&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Planetary Atmospheres</title>
@@ -15,7 +34,8 @@
       <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/project/planetary-atmospheres/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is an example page for the Planetary Atmospheres team.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -126,24 +146,6 @@ process&amp;hellip; I hope!&lt;/p&gt;
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
       
       <guid>https://leighfletcher.github.io/publication/2017-geo-rl-44-5345-s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latitudinal variability in Jupiter&#39;s tropospheric disequilibrium species: GeH$_4$, AsH$_3$ and PH$_3$</title>
-      <link>https://leighfletcher.github.io/publication/2017-icar-289-254-g/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://leighfletcher.github.io/publication/2017-icar-289-254-g/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cycles of activity in the Jovian atmosphere</title>
-      <link>https://leighfletcher.github.io/publication/2017-geo-rl-44-4725-f/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://leighfletcher.github.io/publication/2017-geo-rl-44-4725-f/</guid>
       <description></description>
     </item>
     
