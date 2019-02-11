@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://leighfletcher.github.io/project/planetary-atmospheres/</loc>
+      <lastmod>2019-02-11T21:04:51+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://leighfletcher.github.io/post/new-website/</loc>
       <lastmod>2019-02-07T21:40:42+00:00</lastmod>
     </url>
@@ -5201,7 +5209,7 @@
     <url>
     
       <loc>https://leighfletcher.github.io/</loc>
-      <lastmod>2019-02-07T21:40:42+00:00</lastmod>
+      <lastmod>2019-02-11T21:04:51+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -6749,6 +6757,15 @@
     
       <loc>https://leighfletcher.github.io/tags/professional-amateur-collaborations/</loc>
       <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://leighfletcher.github.io/project/</loc>
+      <lastmod>2019-02-11T21:04:51+00:00</lastmod>
       <priority>0</priority>
     </url>
     
