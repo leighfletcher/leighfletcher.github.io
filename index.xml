@@ -10,29 +10,41 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Doc</title>
+      <title>Dr. Example</title>
       <link>https://leighfletcher.github.io/group/example-doc/</link>
       <pubDate>Tue, 12 Feb 2019 20:02:31 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/group/example-doc/</guid>
       <description>
 
-&lt;h1 id=&#34;list-qualifications-such-as-academic-degrees&#34;&gt;List qualifications (such as academic degrees)&lt;/h1&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
 
-&lt;p&gt;[[education.courses]]
-  course = &amp;ldquo;PhD in Planetary Physics&amp;rdquo;
-  institution = &amp;ldquo;University of Oxford&amp;rdquo;
-  year = 2007&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Planetary atmospheres&lt;/li&gt;
+&lt;li&gt;Spectral Inversion and Radiative Transfer&lt;/li&gt;
+&lt;li&gt;Earth-based observations&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;[[education.courses]]
-  course = &amp;ldquo;MSci in Natural Sciences&amp;rdquo;
-  institution = &amp;ldquo;University of Cambridge&amp;rdquo;
-  year = 2004&lt;/p&gt;
+&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
 
-&lt;p&gt;[[education.courses]]
-  course = &amp;ldquo;BA in Natural Sciences&amp;rdquo;
-  institution = &amp;ldquo;University of Cambridge&amp;rdquo;
-  year = 2003&lt;/p&gt;
+&lt;p&gt;Dr. Example is a post-doctoral research fellow at the University of Leicester, specialising in&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Post-doctoral Research Fellow at the University of Leicester, 2010-2019.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;qualifications&#34;&gt;Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PhD in Planetary Physics, University of Leicester (2010).&lt;/li&gt;
+&lt;li&gt;MSci in Physics, University of Leicester (2007).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
+
+&lt;p&gt;Example et al., (2018), Awesome New Planetary Science, Nature, accepted.&lt;/p&gt;
 </description>
     </item>
     
