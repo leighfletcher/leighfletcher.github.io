@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Example Doc</title>
+      <link>https://leighfletcher.github.io/group/example-doc/</link>
+      <pubDate>Tue, 12 Feb 2019 20:02:31 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/group/example-doc/</guid>
+      <description>List qualifications (such as academic degrees) [[education.courses]] course = &amp;ldquo;PhD in Planetary Physics&amp;rdquo; institution = &amp;ldquo;University of Oxford&amp;rdquo; year = 2007
+[[education.courses]] course = &amp;ldquo;MSci in Natural Sciences&amp;rdquo; institution = &amp;ldquo;University of Cambridge&amp;rdquo; year = 2004
+[[education.courses]] course = &amp;ldquo;BA in Natural Sciences&amp;rdquo; institution = &amp;ldquo;University of Cambridge&amp;rdquo; year = 2003</description>
+    </item>
+    
+    <item>
       <title>Oliver King</title>
       <link>https://leighfletcher.github.io/group/oliver-king/</link>
       <pubDate>Mon, 11 Feb 2019 22:03:11 +0000</pubDate>
@@ -71,9 +82,7 @@
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/group/henrik-melin/</guid>
-      <description>Henrik is an STFC-supported postdoc in Leicester&amp;rsquo;s planetary atmospheres team.
-Academic Interests:
-Qualifications:</description>
+      <description>Henrik is an STFC-supported postdoc in Leicester&amp;rsquo;s planetary atmospheres team.</description>
     </item>
     
   </channel>
