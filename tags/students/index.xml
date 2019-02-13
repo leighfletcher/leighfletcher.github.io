@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Students on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/tags/students/</link>
+    <description>Recent content in Students on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 22:03:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/tags/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oliver King</title>
+      <link>https://leighfletcher.github.io/group/oliver-king/</link>
+      <pubDate>Mon, 11 Feb 2019 22:03:11 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/group/oliver-king/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naomi Rowe Gurney</title>
+      <link>https://leighfletcher.github.io/group/naomi-rowe-gurney/</link>
+      <pubDate>Mon, 11 Feb 2019 22:03:05 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/group/naomi-rowe-gurney/</guid>
+      <description>Research Interests  Planetary atmospheres Spectral Inversion and Radiative Transfer Ice giants  Biography Naomi is a PhD student at the University of Leicester, specialising in the atmospheres of the ice giants, Uranus and Neptune. She uses data from the Spitzer Space Telescope to characterise the stratospheres of the two planets in preparation for the launch of the James Webb Space Telescope (JWST). She is an active member of the JWST UK outreach community and, as a former teacher, is always looking to take part in science communication events.</description>
+    </item>
+    
+    <item>
+      <title>Padraig Donnelly</title>
+      <link>https://leighfletcher.github.io/group/padraig-donnelly/</link>
+      <pubDate>Mon, 11 Feb 2019 22:02:55 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/group/padraig-donnelly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
