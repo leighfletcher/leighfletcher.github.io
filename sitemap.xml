@@ -5280,15 +5280,6 @@
     
     <url>
     
-      <loc>https://leighfletcher.github.io/</loc>
-      <lastmod>2019-02-12T20:02:31+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://leighfletcher.github.io/authors/leigh-fletcher/</loc>
       <lastmod>2019-02-07T21:40:42+00:00</lastmod>
       <priority>0</priority>
@@ -6740,6 +6731,15 @@
     
       <loc>https://leighfletcher.github.io/tags/photometry/</loc>
       <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://leighfletcher.github.io/</loc>
+      <lastmod>2019-02-12T20:02:31+00:00</lastmod>
       <priority>0</priority>
     </url>
     
