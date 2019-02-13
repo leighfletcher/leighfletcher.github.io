@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Ice Giants</title>
+      <link>https://leighfletcher.github.io/project/ice-giants/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/project/ice-giants/</guid>
+      <description>This theme will use existing ground- and space-based observations of the ice giants to prepare for observations with the James Webb Space Telescope (JWST), where guaranteed time observations of both worlds (programme IDs 1248 and 1249) have been awarded and prepared by Dr. Fletcher.
+ Ms. Naomi Rowe-Gurney arrived in Leicester in September 2017 to begin a PhD thesis mining the archive of Spitzer observations of both Uranus and Neptune (disc-averaged due to the small angular size of these planets).</description>
+    </item>
+    
+    <item>
       <title>Jupiter&#39;s Climate Variability</title>
       <link>https://leighfletcher.github.io/project/jupiter-climate-variability/</link>
       <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
@@ -22,12 +32,12 @@
     </item>
     
     <item>
-      <title>Planetary Atmospheres</title>
-      <link>https://leighfletcher.github.io/project/planetary-atmospheres/</link>
+      <title>Saturn&#39;s Seasonal Atmosphere</title>
+      <link>https://leighfletcher.github.io/project/saturn-seasonal/</link>
       <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
       
-      <guid>https://leighfletcher.github.io/project/planetary-atmospheres/</guid>
-      <description>This is an example page for the Planetary Atmospheres team.</description>
+      <guid>https://leighfletcher.github.io/project/saturn-seasonal/</guid>
+      <description>The Cassini mission came to an end in September 2017, and the ERC team at Leicester were involved in a number of media activities associated with the end of mission. Two publications have been prepared by Dr. Fletcher that deal with Cassini infrared spectroscopy spanning the entire mission, 2004 to 2017: the first (published in Nature Astronomy) investigates the evolution of Saturn&amp;rsquo;s tropical oscillations in the equatorial stratosphere, and the substantial perturbation caused by the Great Northern Storm of 2010-2013 (http://dx.</description>
     </item>
     
   </channel>
