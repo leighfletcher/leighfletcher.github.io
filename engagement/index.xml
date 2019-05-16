@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engagements on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/engagement/</link>
+    <description>Recent content in Engagements on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 21:09:04 +0100</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/engagement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Public Talks</title>
+      <link>https://leighfletcher.github.io/engagement/public-talks/</link>
+      <pubDate>Thu, 16 May 2019 21:09:04 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/engagement/public-talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhibitions and Museums</title>
+      <link>https://leighfletcher.github.io/engagement/exhibitions-and-museums/</link>
+      <pubDate>Thu, 16 May 2019 21:08:34 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/engagement/exhibitions-and-museums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TV and Radio</title>
+      <link>https://leighfletcher.github.io/engagement/tv-and-radio/</link>
+      <pubDate>Thu, 16 May 2019 21:08:17 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/engagement/tv-and-radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schools</title>
+      <link>https://leighfletcher.github.io/engagement/schools/</link>
+      <pubDate>Thu, 16 May 2019 21:07:41 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/engagement/schools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Writing</title>
+      <link>https://leighfletcher.github.io/engagement/science-writing/</link>
+      <pubDate>Thu, 16 May 2019 21:07:01 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/engagement/science-writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

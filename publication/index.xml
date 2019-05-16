@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Planetary Atmospheres</title>
+    <title>Publications on Leigh Fletcher</title>
     <link>https://leighfletcher.github.io/publication/</link>
-    <description>Recent content in Publications on Planetary Atmospheres</description>
+    <description>Recent content in Publications on Leigh Fletcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Feb 2019 21:04:51 +0000</lastBuildDate>
@@ -12,15 +12,14 @@
     
     
     <item>
-      <title>News &amp; View Articles</title>
+      <title>News &amp; Views Articles</title>
       <link>https://leighfletcher.github.io/publication/news-views/</link>
       <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/publication/news-views/</guid>
       <description>This page lists my contributions to News &amp;amp; Views, Book Reviews, and Popular Science Articles, both in print and online.
- Fletcher, L.N. &amp;amp; Rogers, J.H., (2018), Pro–am collaborations improve views of Jupiter, Astronomy &amp;amp; Geophysics, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)
- Fletcher, L.N., (2017), &amp;ldquo;Saturn&amp;rsquo;s Big Storm&amp;rdquo;, Nature Astronomy News and Views, Nature Astronomy 1, 583, (http://dx.doi.org/10.1038/s41550-017-0246-6)
- Fletcher, L.N. (2017), &amp;ldquo;Saturn&amp;rsquo;s Seasonal Atmosphere&amp;rdquo;, Astronomy and Geophysics 58, p4.</description>
+ J.H. Rogers, L.N. Fletcher (2019), Notes and News:&amp;lsquo;New Views of Jupiter&amp;rsquo;: Pro-Am collaborations during and beyond the NASA Juno mission, Journal of the British Astronomical Association 128, 321-323.
+ Fletcher, L.N. &amp;amp; Rogers, J.H., (2018), Pro–am collaborations improve views of Jupiter, Astronomy &amp;amp; Geophysics, Volume 59, Issue 4, 1 August 2018, Pages 4.</description>
     </item>
     
     <item>
@@ -43,8 +42,8 @@
       <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/publication/technical-publications/</guid>
-      <description>James M. Bauer, Stefanie Milam, Gordon Bjoraker, Sean Carey, Doris Daou, Leigh Fletcher, Walt Harris, Paul Hartogh, Christine Hartzell, Amanda Hendrix, Carrie Nugent, Andy Rivkin, Timothy Swindle, Cristina Thomas, Matthew S. Tiscareno, Geronimo Villanueva, Scott Wolk (2019), Planetary Science with Astrophysical Assets: Defining the Core Capabilities of Platforms, submitted to the US Astrophysics Decadal Survey
- H.B. Hammel, M.E. Moutamid, L.N. Fletcher, B. Holler, M.S.P. Kelley, H. Melin, S. Milam, C.</description>
+      <description>This page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
+ James M. Bauer, Stefanie Milam, Gordon Bjoraker, Sean Carey, Doris Daou, Leigh Fletcher, Walt Harris, Paul Hartogh, Christine Hartzell, Amanda Hendrix, Carrie Nugent, Andy Rivkin, Timothy Swindle, Cristina Thomas, Matthew S. Tiscareno, Geronimo Villanueva, Scott Wolk (2019), Planetary Science with Astrophysical Assets: Defining the Core Capabilities of Platforms, submitted to the US Astrophysics Decadal Survey</description>
     </item>
     
   </channel>
