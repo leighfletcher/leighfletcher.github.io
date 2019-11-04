@@ -10,11 +10,55 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Reviewing</title>
-      <link>https://leighfletcher.github.io/publication/reviewing/</link>
+      <title>Conference Organising</title>
+      <link>https://leighfletcher.github.io/community/conferences/</link>
       <pubDate>Thu, 11 Jul 2019 09:14:18 +0100</pubDate>
       
-      <guid>https://leighfletcher.github.io/publication/reviewing/</guid>
+      <guid>https://leighfletcher.github.io/community/conferences/</guid>
+      <description>
+
+&lt;h2 id=&#34;conference-and-workshop-organisation&#34;&gt;Conference and Workshop Organisation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lead Organiser, UK Solar System Planetary Atmospheres Meeting, February 14th 2020, Royal Astronomical Society.&lt;/li&gt;
+&lt;li&gt;Lead Organiser, Royal Society Discussion Meeting: Ice Giant Systems 2020, January 20th-22nd 2020.&lt;/li&gt;
+&lt;li&gt;Co-Organiser (with John Rogers), Royal Astronomical Society Juno Workshop, May 10th-11th 2018.  Received funding from Europlanet.&lt;/li&gt;
+&lt;li&gt;Co-Organiser (with Amy Simon), COSPAR Ice Giants Session B5.4, July 2018, Pasadena, California.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leadership Positions</title>
+      <link>https://leighfletcher.github.io/community/community1/</link>
+      <pubDate>Thu, 11 Jul 2019 09:14:18 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/community/community1/</guid>
+      <description>
+
+&lt;h2 id=&#34;community-leadership&#34;&gt;Community Leadership&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Elected member of the Europlanet Society Board, 2019-Present.&lt;/li&gt;
+&lt;li&gt;Vice Chair of Commission B5 (Outer Planets) of COSPAR, 2018-Present.&lt;/li&gt;
+&lt;li&gt;Vice President, International Commission on Planetary Atmospheres and their Evolution (ICPAE), a sub-division of IAMAS (2011-2015)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;editorial-boards&#34;&gt;Editorial Boards&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Associate Editor, Journal of Geophysical Research: Planets, 2019-Present (responsible for giant planet atmospheres papers).&lt;/li&gt;
+&lt;li&gt;Editorial board, Cambridge University Press Planetary Sciences Series, 2019-Present.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reviewing</title>
+      <link>https://leighfletcher.github.io/community/reviewing/</link>
+      <pubDate>Thu, 11 Jul 2019 09:14:18 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/community/reviewing/</guid>
       <description>
 
 &lt;p&gt;I have served as a reviewer for a wide range of peer-reviewed publications, proposals, and other committee activities.&lt;/p&gt;
@@ -22,6 +66,7 @@
 &lt;h1 id=&#34;recognition&#34;&gt;Recognition&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Associate Editor of Journal of Geophysical Research: Planets (2019-Present)&lt;/li&gt;
 &lt;li&gt;2017 Editor’s Citation for Excellence in Refereeing - Geophysical Research Letters.&lt;/li&gt;
 &lt;li&gt;2014 Certificate of Reviewing Excellence from the Editors of Icarus.&lt;/li&gt;
 &lt;/ul&gt;
@@ -32,7 +77,7 @@
 &lt;li&gt;Icarus&lt;/li&gt;
 &lt;li&gt;Geophysical Research Letters&lt;/li&gt;
 &lt;li&gt;JGR-Planets&lt;/li&gt;
-&lt;li&gt;Nature Geoscience&lt;/li&gt;
+&lt;li&gt;Nature Geoscience and Nature Astronomy&lt;/li&gt;
 &lt;li&gt;Science&lt;/li&gt;
 &lt;li&gt;Astronomy and Astrophysics&lt;/li&gt;
 &lt;li&gt;Acta Astronautica&lt;/li&gt;
@@ -44,6 +89,7 @@
 &lt;h1 id=&#34;panel-member&#34;&gt;Panel Member&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Cambridge University Press Planetary Science Series - Editorial Board.&lt;/li&gt;
 &lt;li&gt;STFC Balance of Programmes Committee (2019)&lt;/li&gt;
 &lt;li&gt;ESO Telescope Allocation Committee (2017, 2018)&lt;/li&gt;
 &lt;li&gt;DPS Prize Committee (2019)&lt;/li&gt;
@@ -54,6 +100,7 @@
 &lt;h1 id=&#34;proposal-reviews&#34;&gt;Proposal Reviews&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Isaac Newton Telescope (INT) telescope allocation committee (external).&lt;/li&gt;
 &lt;li&gt;Future Leaders Fellowships Scheme (2018)&lt;/li&gt;
 &lt;li&gt;STFC Ernest Rutherford Fellowships (External, 2014+).&lt;/li&gt;
 &lt;li&gt;STFC Consolidated Grants (2010+).&lt;/li&gt;
@@ -70,7 +117,7 @@
     </item>
     
     <item>
-      <title>Professional Talks</title>
+      <title>Talks</title>
       <link>https://leighfletcher.github.io/publication/professional-talks/</link>
       <pubDate>Thu, 16 May 2019 21:19:57 +0100</pubDate>
       
@@ -78,6 +125,39 @@
       <description>&lt;p&gt;This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.&lt;/p&gt;
 
 &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;ESA&amp;rsquo;s Voyage 2050 Workshop, Madrid, October 29th 2019:  Invited presentation of our white paper on *Ice Giant Systems:  Scientific Potential of Missions to Uranus and Neptune.&lt;/strong&gt;*&lt;br /&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Big Beasts -first up is &lt;a href=&#34;https://twitter.com/LeighFletcher?ref_src=twsrc%5Etfw&#34;&gt;@LeighFletcher&lt;/a&gt; &lt;a href=&#34;https://twitter.com/uniofleicester?ref_src=twsrc%5Etfw&#34;&gt;@uniofleicester&lt;/a&gt; with a mission to explore the Ice Giants Uranus and Neptune &lt;a href=&#34;https://twitter.com/hashtag/voyage2050?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#voyage2050&lt;/a&gt; -“exoplanets in our backyard” &lt;a href=&#34;https://t.co/RpTLOS0Usk&#34;&gt;pic.twitter.com/RpTLOS0Usk&lt;/a&gt;&lt;/p&gt;&amp;mdash; chris lee (@cpl43uk) &lt;a href=&#34;https://twitter.com/cpl43uk/status/1189204586848047104?ref_src=twsrc%5Etfw&#34;&gt;October 29, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;European Planetary Science Congress (EPSC), Geneva, Switzerland, September 19th 2019: &lt;em&gt;Jupiter&amp;rsquo;s Ammonia-Rich Equatorial Plumes.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Invited Seminar Presentation at Queens University Belfast (QUB), March 27th 2019, *Exploring the Atmospheres of Uranus and Neptune&lt;/strong&gt;*.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ice Giant Probe Workshop, Marseille, February 25th 2019:  Invited Talk on &lt;em&gt;Ice Giant Circulation Patterns inferred from Remote Sensing&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;UK China Space Science Workshop, Ningbo, China, December 12th, 2018, &lt;em&gt;Giant Planet Exploration in the 2020s&lt;/em&gt;, Invited Talk&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Invited Lecture at the International Space Science Institute (ISSI) in Bern, Switzerland, November 15th 2018:  &lt;em&gt;Jupiter Science in the Next Decade: From Juno to JUICE&lt;/em&gt; (Invited)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Division of Planetary Science Meeting, October 26th 2018, Knoxville, Tennessee, &lt;em&gt;Contrasting Temperature Conditions at the Poles of Jupiter and Saturn.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;International Outer Planets Watch (IOPW) Workshop, Knoxville, Tennessee, October 24th 2018, &lt;em&gt;Thermal-IR Observations of Saturn, Uranus, and Neptune&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;DPS Juno Workshop, Knoxville Tennessee, October 21st 2018, &lt;em&gt;Mid-Infrared Support for Juno&amp;rsquo;s Perijoves, 2016-2018&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;40th COSPAR Meeting, Pasadena, California, July 18th 2018, &lt;em&gt;VLT/VISIR Spectroscopy of Ice Giant Stratospheres in Preparation for JWST/MIRI&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NEMESIS Users Meeting, Oxford, June 2018, &lt;em&gt;Thermal Emission from Giant Planets with NEMESIS.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Royal Astronomical Society Juno Workshop, May 10th-11th 2018, &lt;em&gt;Jupiter in the Mid-Infrared and Future Support.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;European Week of Astronomy and Space Science (EWASS), April 3rd-6th 2018, Liverpool, &lt;em&gt;Exploring Giant Planets with JWST&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Cassini Project Science Group Meeting (Remote Presentation), March 7th 2018, &lt;em&gt;Status of Saturn&amp;rsquo;s North Polar Stratosphere at Northern Summer Solstice&lt;/em&gt;, Invited Presentation.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ESTEC, March 1st 2018, &lt;em&gt;Earth-Based Support for Juno, JWST and JUICE,&lt;/em&gt; presentation to JUICE Science Working Team Meeting.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Royal Astronomical Society, January 12th 2018, Extremely Large Telescope Workshop, &lt;em&gt;ELT Exploration of Giant Planet Systems&lt;/em&gt;, Invited Talk&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;ESTEC, December 2017: &lt;em&gt;Giant Planet Exploration with JWST&lt;/em&gt;, Invited talk to the JWST Solar System Proposal Workshop.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;British Planetary Science Convention, University of Glasgow, December 2017: &lt;em&gt;Saturn at Northern Summer Solstice:  The Grand Finale of the Cassini Mission.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
@@ -297,7 +377,25 @@ Storms and Surprises on the Gas Giants, Invited Talk for the UCLA Earth and Spac
       <pubDate>Thu, 16 May 2019 21:09:04 +0100</pubDate>
       
       <guid>https://leighfletcher.github.io/engagement/public-talks/</guid>
-      <description></description>
+      <description>
+
+&lt;h2 id=&#34;general-audience&#34;&gt;General Audience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;New Scientist Live, Excel Centre London, October 11th 2019:  Invited presentation to ~800 attendees at NSL2019, &lt;em&gt;Lifting Jupiter&amp;rsquo;s Cloudy Veil: Our Exploration of the Giant Planet.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Pint of Science, Leicester, May 20th 2019: &lt;em&gt;Onwards to the Ice Giants&lt;/em&gt; presentation at Manhattan 34.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;astronomy-societies&#34;&gt;Astronomy Societies&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nene Valley Astromical Society, September 17th 2018, &lt;em&gt;Exploring the Weather of the Giant Planets&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;British Astronomical Association Weekend, July 7th 2018, University of Warwick, &lt;em&gt;Exploring the Weather of the Giant Planets via Professional-Amateur Collaboration&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Heart of England Astronomical Society, April 26th 2018, &lt;em&gt;New Views of the Jupiter System&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Milton Keynes Astronomical Society, March 16th 2018, &lt;em&gt;Alien Snowstorms:  Climate and Weather on Other Worlds.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Rutland Astronomical Society, February 7th 2018, &lt;em&gt;Alien Snowstorms:  The Weather on Other Worlds&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -306,7 +404,10 @@ Storms and Surprises on the Gas Giants, Invited Talk for the UCLA Earth and Spac
       <pubDate>Thu, 16 May 2019 21:08:34 +0100</pubDate>
       
       <guid>https://leighfletcher.github.io/engagement/exhibitions-and-museums/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Invited Specialist for the presentation of Holst&amp;rsquo;s Planets Suite (Reimagined) at the ThinkTank Museum, Birmingham, October 2nd 2018.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -315,7 +416,24 @@ Storms and Surprises on the Gas Giants, Invited Talk for the UCLA Earth and Spac
       <pubDate>Thu, 16 May 2019 21:08:17 +0100</pubDate>
       
       <guid>https://leighfletcher.github.io/engagement/tv-and-radio/</guid>
-      <description></description>
+      <description>
+
+&lt;h2 id=&#34;television&#34;&gt;Television&lt;/h2&gt;
+
+&lt;h3 id=&#34;sky-at-night&#34;&gt;Sky at Night&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;May 2018:  Interviewed at the Royal Astronomical Society, providing an update on the latest discoveries from NASA&amp;rsquo;s Juno mission.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;podcasts&#34;&gt;Podcasts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ITN Podcast on Exoplanets (commissioned by audible.com) - recorded in Leicester on October 10th 2019.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Space Boffins:  recorded a discussion of future missions to the Ice Giants at the UK Space Conference, September 25th 2019.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -331,6 +449,14 @@ Storms and Surprises on the Gas Giants, Invited Talk for the UCLA Earth and Spac
 &lt;p&gt;The University of Leicester&amp;rsquo;s &lt;a href=&#34;http://spaceschool.co.uk/&#34; target=&#34;_blank&#34;&gt;Space School&lt;/a&gt; celebrated its 30th anniversary in 2019, and I was invited to give a lecture on my planetary research to their &amp;ldquo;senior school&amp;rdquo; (16-18 year olds) in August 2019, focussing on future missions to the Ice Giants.  I previously provided a lecture at the Space School 2016, on exploring giant planet atmospheres.&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Space School UK are loving hearing about the exciting planetary science research of &lt;a href=&#34;https://twitter.com/LeighFletcher?ref_src=twsrc%5Etfw&#34;&gt;@LeighFletcher&lt;/a&gt;! 🛰️🌍🔭 &lt;a href=&#34;https://twitter.com/hashtag/SSSUK2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SSSUK2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/PhysicsUoL?ref_src=twsrc%5Etfw&#34;&gt;@PhysicsUoL&lt;/a&gt; &lt;a href=&#34;https://t.co/gd2gaqxCuD&#34;&gt;pic.twitter.com/gd2gaqxCuD&lt;/a&gt;&lt;/p&gt;&amp;mdash; Space School UK (@SpaceSchoolUK) &lt;a href=&#34;https://twitter.com/SpaceSchoolUK/status/1158365547752513536?ref_src=twsrc%5Etfw&#34;&gt;August 5, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;primary-schools&#34;&gt;Primary Schools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Discovery Schools Academy Trust (DSAT) Science Conference:  March 16th, 2019:  Return to give the opening Science Talk at their annual science conference, approximately 100 specially-selected primary school science students in attendance.&lt;/li&gt;
+&lt;li&gt;Parkland Primary School, Wigston, Leicester, January 30th 2019:  two classes, one for year 1s, another for year 5s, introducing the exploration of other worlds.&lt;/li&gt;
+&lt;li&gt;Discovery Schools Academy Trust (DSAT) Science Conference:  March 17th, 2018:  Opening Science Talk at their annual science conference, approximately 100 specially-selected primary school science students in attendance.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -358,7 +484,7 @@ Storms and Surprises on the Gas Giants, Invited Talk for the UCLA Earth and Spac
 &lt;h2 id=&#34;magazine-articles&#34;&gt;Magazine Articles&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.lpi.usra.edu/education/IYPT/&#34; target=&#34;_blank&#34;&gt;International Year of the Periodic Table&lt;/a&gt; (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lpi.usra.edu/education/IYPT/&#34; target=&#34;_blank&#34;&gt;International Year of the Periodic Table&lt;/a&gt; (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.  Fletcher L., Shaner A., Webb S., and Portillo K. (2019) Top 5 Elements in the Atmosphere of Uranus. LPI Contribution No. 2205, Lunar and Planetary Institute, Houston.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.popastro.com/main_spa1/january-february-2019/&#34; target=&#34;_blank&#34;&gt;Society for Popular Astronomy Magazine&lt;/a&gt; (2019), Pro-Am Collaborations and NASA’s Juno Mission.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Astronomy and Geophysics (2018), Pro–am collaborations improve views of Jupiter, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (&lt;a href=&#34;https://doi.org/10.1093/astrogeo/aty192&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1093/astrogeo/aty192&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;ROOM.EU Space Journal (September 2017):  An article on the end of the Cassini mission in the room.eu journal, available to subscribers via &lt;a href=&#34;https://room.eu.com/article/cassini-observations-open-up-saturns-atmosphere&#34; target=&#34;_blank&#34;&gt;this link&lt;/a&gt;.&lt;/li&gt;
@@ -563,80 +689,6 @@ Council.&lt;/p&gt;
       
       <guid>https://leighfletcher.github.io/group/michael-roman/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dr. James Blake</title>
-      <link>https://leighfletcher.github.io/group/james-blake/</link>
-      <pubDate>Mon, 11 Feb 2019 22:02:43 +0000</pubDate>
-      
-      <guid>https://leighfletcher.github.io/group/james-blake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dr Arrate Antuñano</title>
-      <link>https://leighfletcher.github.io/group/arrate-antunano/</link>
-      <pubDate>Mon, 11 Feb 2019 21:31:23 +0000</pubDate>
-      
-      <guid>https://leighfletcher.github.io/group/arrate-antunano/</guid>
-      <description>
-
-&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Planetary atmospheres&lt;/li&gt;
-&lt;li&gt;Spectral Inversion and Radiative Transfer&lt;/li&gt;
-&lt;li&gt;Atmospheric dynamics&lt;/li&gt;
-&lt;li&gt;Gas Giants&lt;/li&gt;
-&lt;li&gt;Earth-based observations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
-
-&lt;p&gt;Dr. Arrate Antuñano is a post-doctoral research fellow at the University of Leicester, specialising in the long-term variability of Jupiter’s atmosphere. She uses ground-based infrared data from several previous and present instruments mounted on the NASA’s 3-meter Infrared Telescope Facility on Maunakea, Hawai’i, and on the Very Large Telescope in Chile to characterise the temporal variability of Jupiter’s troposphere and stratosphere, by analysing changes in the clouds, aerosols and temperatures. She also collaborates in a wide range of international projects studying the gas giants’ atmospheres and attends diverse outreach events.&lt;/p&gt;
-
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://twitter.com/arrate_wp01&#34; target=&#34;_blank&#34;&gt;@arrate_wp01&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://github.com/Arrate01&#34; target=&#34;_blank&#34;&gt;Arrate01&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;a href=&#34;mailto:aam58@le.ac.uk&#34; target=&#34;_blank&#34;&gt;Email Me&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;ai ai-google-scholar-square ai-1x&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://scholar.google.com/citations?user=azv1TnMAAAAJ&amp;amp;hl=es&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;ai ai-orcid-square ai-1x&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://orcid.org/0000-0001-9206-6960&#34; target=&#34;_blank&#34;&gt;ORCID&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;ai ai-researchgate-square ai-1x&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.researchgate.net/profile/Arrate_Antunano&#34; target=&#34;_blank&#34;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;ai ai-researcherid-square ai-1x&#34;&gt;&lt;/i&gt; &lt;a href=&#34;http://www.researcherid.com/rid/H-7073-2015&#34; target=&#34;_blank&#34;&gt;Researcher ID&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Post-doctoral Research Fellow at the University of Leicester (2017-present).&lt;/li&gt;
-&lt;li&gt;PhD student at the University of the Basque Country (UPV/EHU) in Spain (2014-2017).&lt;/li&gt;
-&lt;li&gt;Short research stays at the Oxford University, 2016.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;qualifications&#34;&gt;Qualifications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;PhD in Space Observation, Science and Technology, University of the Basque Country (2017).&lt;/li&gt;
-&lt;li&gt;MSci in Space Science and Technology, University of the Basque Country (2012).&lt;/li&gt;
-&lt;li&gt;BA in Physics, University of the Basque Country (2011).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Antuñano et al. (2019), Potential Vorticity of Saturn’s Polar Regions: Seasonality and Instabilities, Journal of Geophysical Research: Planets, 124, 186-201.&lt;/li&gt;
-&lt;li&gt;Antuñano et al. (2018), Infrared Characterization of Jupiter’s Equatorial Disturbance Cycle, Geophysical Research Letters, 45, 10987-10995.&lt;/li&gt;
-&lt;li&gt;Antuñano et al. (2017), Cloud morphology and dynamics in Saturn’s northern polar region, Icarus, 299, 117-132.&lt;/li&gt;
-&lt;li&gt;Antuñano et al. (2015), Dynamics of Saturn’s polar regions, Journal of Geophysical Research: Planets, 120, 155-176.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

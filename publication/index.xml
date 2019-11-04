@@ -6,31 +6,34 @@
     <description>Recent content in Publications on Planetary Atmospheres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 09:14:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2019 21:19:57 +0100</lastBuildDate>
     
 	<atom:link href="https://leighfletcher.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Reviewing</title>
-      <link>https://leighfletcher.github.io/publication/reviewing/</link>
-      <pubDate>Thu, 11 Jul 2019 09:14:18 +0100</pubDate>
-      
-      <guid>https://leighfletcher.github.io/publication/reviewing/</guid>
-      <description>I have served as a reviewer for a wide range of peer-reviewed publications, proposals, and other committee activities.
-Recognition  2017 Editor’s Citation for Excellence in Refereeing - Geophysical Research Letters. 2014 Certificate of Reviewing Excellence from the Editors of Icarus.  Journal Reviews  Icarus Geophysical Research Letters JGR-Planets Nature Geoscience Science Astronomy and Astrophysics Acta Astronautica Monthly Notices of the Royal Astronomical Society Planetary and Space Sciences Astrophysical Journal Letters  Panel Member  STFC Balance of Programmes Committee (2019) ESO Telescope Allocation Committee (2017, 2018) DPS Prize Committee (2019) Royal Astronomical Society Research Fellowships (2014).</description>
-    </item>
-    
-    <item>
-      <title>Professional Talks</title>
+      <title>Talks</title>
       <link>https://leighfletcher.github.io/publication/professional-talks/</link>
       <pubDate>Thu, 16 May 2019 21:19:57 +0100</pubDate>
       
       <guid>https://leighfletcher.github.io/publication/professional-talks/</guid>
       <description>This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings. Invited talks are highlighted in bold, all others are contributed talks.
- ESTEC, December 2017: Giant Planet Exploration with JWST, Invited talk to the JWST Solar System Proposal Workshop.
- British Planetary Science Convention, University of Glasgow, December 2017: Saturn at Northern Summer Solstice: The Grand Finale of the Cassini Mission.
- IAS, Orsay, November 2017: Earth-Based Support for Jupiter Missions: From Juno to JUICE, Invited Talk at the JUICE/MAJIS team meeting.</description>
+ ESA&amp;rsquo;s Voyage 2050 Workshop, Madrid, October 29th 2019: Invited presentation of our white paper on *Ice Giant Systems: Scientific Potential of Missions to Uranus and Neptune.*
+Big Beasts -first up is @LeighFletcher @uniofleicester with a mission to explore the Ice Giants Uranus and Neptune #voyage2050 -“exoplanets in our backyard” pic.</description>
+    </item>
+    
+    <item>
+      <title>Journal Articles</title>
+      <link>https://leighfletcher.github.io/publication/peer-reviewed/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/peer-reviewed/</guid>
+      <description>My peer-reviewed journal articles by the numbers:
+ 163 articles in peer-reviewed journals &amp;amp; books, 32 as lead author (Science, Nature, GRL, Icarus, A&amp;amp;A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
+ 5 contributions to book chapters, 1 as lead author.
+ 1 DPhil/PhD thesis!
+  Additional information (and metrics) available via PubLons, Google Scholar, NASA ADS, ORCID and ResearchGate.
+ R. Hueso, A. Sánchez-Lavega, J.F. Rojas, A.</description>
     </item>
     
     <item>
@@ -45,26 +48,12 @@ Recognition  2017 Editor’s Citation for Excellence in Refereeing - Geophysical
     </item>
     
     <item>
-      <title>Peer-Reviewed Articles</title>
-      <link>https://leighfletcher.github.io/publication/peer-reviewed/</link>
-      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
-      
-      <guid>https://leighfletcher.github.io/publication/peer-reviewed/</guid>
-      <description>My peer-reviewed journal articles by the numbers:
- 161 articles in peer-reviewed journals &amp;amp; books, 32 as lead author (Science, Nature, GRL, Icarus, A&amp;amp;A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
- 5 contributions to book chapters, 1 as lead author.
- 1 DPhil/PhD thesis!
-  Additional information (and metrics) available via PubLons, Google Scholar, NASA ADS, ORCID and ResearchGate.
- Henrik Melin , L. N. Fletcher , T.</description>
-    </item>
-    
-    <item>
-      <title>Technical Publications</title>
+      <title>Technical Papers</title>
       <link>https://leighfletcher.github.io/publication/technical-publications/</link>
       <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/publication/technical-publications/</guid>
-      <description>TThis page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
+      <description>This page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
  Olivier Mousis, David H. Atkinson, Richard Ambrosi, Sushil Atreya, Don Banfield, Stas Barabash, Michel Blanc, Thibault Cavalié, Athena Coustenis, Magali Deleuil, Georges Durry, Francesca Ferri, Leigh Fletcher, Thierry Fouchet, Tristan Guillot, Paul Hartogh, Ricardo Hueso, Mark Hofstadter, Jean-Pierre Lebreton, Kathleen E. Mandt, Heike Rauer, Pascal Rannou, Jean-Baptiste Renard, Agustin Sanchez-Lávega, Kunio Sayanagi, Amy Simon, Thomas Spilker, Ethiraj Venkatapathy, J.</description>
     </item>
     

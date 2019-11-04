@@ -92,7 +92,7 @@
     </item>
     
     <item>
-      <title>Publications, Reviews, and Presentations</title>
+      <title>Publications</title>
       <link>https://leighfletcher.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -106,6 +106,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://leighfletcher.github.io/home/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/home/community/</guid>
       <description></description>
     </item>
     
