@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Planetary Atmospheres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Feb 2019 22:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 22:03:11 +0000</lastBuildDate>
     
 	<atom:link href="https://leighfletcher.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Postdocs</title>
-      <link>https://leighfletcher.github.io/tags/postdocs/</link>
-      <pubDate>Mon, 11 Feb 2019 22:02:49 +0000</pubDate>
-      
-      <guid>https://leighfletcher.github.io/tags/postdocs/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Students</title>
@@ -26,6 +17,15 @@
       <pubDate>Mon, 11 Feb 2019 22:03:11 +0000</pubDate>
       
       <guid>https://leighfletcher.github.io/tags/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postdocs</title>
+      <link>https://leighfletcher.github.io/tags/postdocs/</link>
+      <pubDate>Mon, 11 Feb 2019 22:02:49 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/tags/postdocs/</guid>
       <description></description>
     </item>
     
