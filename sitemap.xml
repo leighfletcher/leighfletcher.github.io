@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://leighfletcher.github.io/community/</loc>
+      <lastmod>2019-07-11T09:14:18+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -20,6 +28,15 @@
     
     <url>
     
+      <loc>https://leighfletcher.github.io/</loc>
+      <lastmod>2019-07-11T09:14:18+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://leighfletcher.github.io/community/reviewing/</loc>
       <lastmod>2019-07-11T09:14:18+01:00</lastmod>
     </url>
@@ -28,8 +45,26 @@
     
     <url>
     
+      <loc>https://leighfletcher.github.io/publication/</loc>
+      <lastmod>2019-05-16T21:19:57+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://leighfletcher.github.io/publication/professional-talks/</loc>
       <lastmod>2019-05-16T21:19:57+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://leighfletcher.github.io/engagement/</loc>
+      <lastmod>2019-05-16T21:14:54+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -100,6 +135,24 @@
     
     <url>
     
+      <loc>https://leighfletcher.github.io/tags/students/</loc>
+      <lastmod>2019-02-11T22:03:11+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://leighfletcher.github.io/tags/</loc>
+      <lastmod>2019-02-11T22:03:11+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://leighfletcher.github.io/group/naomi-rowe-gurney/</loc>
       <lastmod>2019-02-11T22:03:05+00:00</lastmod>
     </url>
@@ -118,6 +171,15 @@
     
       <loc>https://leighfletcher.github.io/group/michael-roman/</loc>
       <lastmod>2019-02-11T22:02:49+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://leighfletcher.github.io/tags/postdocs/</loc>
+      <lastmod>2019-02-11T22:02:49+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -180,6 +242,15 @@
     
     <url>
     
+      <loc>https://leighfletcher.github.io/project/</loc>
+      <lastmod>2019-02-11T21:04:51+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://leighfletcher.github.io/project/saturn-seasonal/</loc>
       <lastmod>2019-02-11T21:04:51+00:00</lastmod>
     </url>
@@ -196,6 +267,24 @@
     
     <url>
     
+      <loc>https://leighfletcher.github.io/authors/</loc>
+      <lastmod>2019-02-07T21:40:42+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://leighfletcher.github.io/authors/leigh-fletcher/</loc>
+      <lastmod>2019-02-07T21:40:42+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://leighfletcher.github.io/post/new-website/</loc>
       <lastmod>2019-02-07T21:40:42+00:00</lastmod>
     </url>
@@ -204,8 +293,16 @@
     
     <url>
     
+      <loc>https://leighfletcher.github.io/post/</loc>
+      <lastmod>2019-02-07T21:40:42+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://leighfletcher.github.io/group/</loc>
-      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -235,77 +332,7 @@
     
     <url>
     
-      <loc>https://leighfletcher.github.io/authors/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://leighfletcher.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/community/</loc>
-      <lastmod>2019-07-11T09:14:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/engagement/</loc>
-      <lastmod>2019-05-16T21:14:54+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/</loc>
-      <lastmod>2019-07-11T09:14:18+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/authors/leigh-fletcher/</loc>
-      <lastmod>2019-02-07T21:40:42+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/tags/postdocs/</loc>
-      <lastmod>2019-02-11T22:02:49+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/post/</loc>
-      <lastmod>2019-02-07T21:40:42+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/project/</loc>
-      <lastmod>2019-02-11T21:04:51+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -321,34 +348,7 @@
     
     <url>
     
-      <loc>https://leighfletcher.github.io/publication/</loc>
-      <lastmod>2019-05-16T21:19:57+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://leighfletcher.github.io/talk/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/tags/students/</loc>
-      <lastmod>2019-02-11T22:03:11+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://leighfletcher.github.io/tags/</loc>
-      <lastmod>2019-02-11T22:02:49+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
