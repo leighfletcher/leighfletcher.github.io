@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Journal Articles</title>
-      <link>https://leighfletcher.github.io/publication/peer-reviewed/</link>
-      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
-      
-      <guid>https://leighfletcher.github.io/publication/peer-reviewed/</guid>
-      <description>Peer-reviewed journal articles.</description>
-    </item>
-    
-    <item>
       <title>News &amp; Views Articles</title>
       <link>https://leighfletcher.github.io/publication/news-views/</link>
       <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
@@ -54,6 +45,15 @@
       
       <guid>https://leighfletcher.github.io/publication/technical-publications/</guid>
       <description>Technical publications, white papers, and mission proposals.</description>
+    </item>
+    
+    <item>
+      <title>Journal Articles</title>
+      <link>https://leighfletcher.github.io/publication/peer-reviewed/</link>
+      <pubDate>Thu, 30 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/peer-reviewed/</guid>
+      <description>Peer-reviewed journal articles.</description>
     </item>
     
   </channel>
