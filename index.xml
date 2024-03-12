@@ -146,6 +146,8 @@
       <description>&lt;p&gt;This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.&lt;/p&gt;
 
 &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Invited Seminar on &lt;em&gt;JWST Exploration of the Solar System&lt;/em&gt; presented to the Dublin Institute for Advanced Studies (DIAS), February 13th 2024.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;Contributed Talk on &lt;em&gt;Saturn&amp;rsquo;s Northern Summer Revealed by JWST,&lt;/em&gt; Division of Planetary Sciences in San Antonio, Texas, October 5th 2023.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Invited Plenary Lecture for the Division of Planetary Sciences in San Antonio, Texas &lt;em&gt;JWST in 2022-23:  New Views of the Giant Planets,&lt;/em&gt; October 4th 2023.&lt;/p&gt;&lt;/li&gt;
@@ -507,6 +509,8 @@ Storms and Surprises on the Gas Giants, Invited Talk for the UCLA Earth and Spac
 &lt;h2 id=&#34;general-audience&#34;&gt;General Audience&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ravensbourne College:  Presentation to Graphical Design students on the subject of planetary explorers, hoping to inspire innovative ways of showcasing planetary information to a broader audience via infographics, October 13th 2023.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;Science Museum Patrons Event, March 14th 2023:  &lt;em&gt;&amp;ldquo;ESA&amp;rsquo;s Mission to Explore the Icy Moons of Jupiter&amp;rdquo;&lt;/em&gt;, a 60-minute lecture to the patrons of the Science Museum in London, followed by a Q&amp;amp;A session hosted by one of the museum curators.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;UKSEDS London Cluster Meeting, February 4th 2023, virtually via Google Meet, &lt;em&gt;JUICE: Exploring Jupiter&amp;rsquo;s Icy Worlds&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
@@ -1171,13 +1175,22 @@ Storms and Surprises on the Gas Giants, Invited Talk for the UCLA Earth and Spac
 &lt;li&gt;&lt;p&gt;Kepler/K2 and Herschel/HIFI&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;ALMA Cycle 10 [2023.1.00019.S]() (PI: de Pater) - &lt;em&gt;ALMA contnuum (NH3) and PH3 maps of Jupiter&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;VLT VISIR &lt;a href=&#34;https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.253D.002&#34; target=&#34;_blank&#34;&gt;111.253D.002&lt;/a&gt; (PI: Bardet) - &lt;em&gt;Saturn&amp;rsquo;s northern summer hemisphere through the eyes of VLT and JWST&lt;/em&gt;, 2.0 hours awarded.&lt;/li&gt;
-&lt;li&gt;VLT VISIR &lt;a href=&#34;https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.255R&#34; target=&#34;_blank&#34;&gt;111.255R&lt;/a&gt; (PI: Roman) - &lt;em&gt;Weather or Not? Understanding Neptune&amp;rsquo;s Surprising Atmospheric Variability with VLT-VISIR&lt;/em&gt;, 8 hours awarded.&lt;/li&gt;
+&lt;li&gt;IRTF TEXES [2024A015]() (PI: J. Harkett) - &lt;em&gt;Characterising the coupling between distinct layers of the Jovian atmosphere via Juno-TEXES Comparisons&lt;/em&gt;, two blocks of observations awarded in February and July 2024.&lt;/li&gt;
+&lt;li&gt;IRTF SpeX [2024A066]() (PI:  Dahl) - &lt;em&gt;Analyzing Jupiter&amp;rsquo;s Colorful and Dynamic Atmosphere During Juno&amp;rsquo;s Extended Mission&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;VLT VISIR [113.267Y]() (PI: Fletcher) - &lt;em&gt;Jupiter&amp;rsquo;s Stormy Skies: Exploring Short and Long-Term Meteorological Variability,&lt;/em&gt; 6hrs awarded to support Juno PJ63-65.&lt;/li&gt;
+&lt;li&gt;VLT VISIR [113.26EB]() (PI: Orton) - &lt;em&gt;Tracking Saturn’s Atmospheric Dynamics in Late Northern Summer: Extending Cassini and Supporting JWST Observations,&lt;/em&gt; 2hrs awarded.&lt;/li&gt;
+&lt;li&gt;VLT VISIR [113.26BV]() (PI: Roman) - &lt;em&gt;Weather or Not? Understanding Neptune&amp;rsquo;s Surprising Atmospheric Variability with VLT-VISIR&lt;/em&gt;, 10hrs awarded.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+
+&lt;p&gt;s
+* ALMA Cycle 10 [2023.1.00019.S]() (PI: de Pater) - &lt;em&gt;ALMA continuum (NH3) and PH3 maps of Jupiter&lt;/em&gt;
+* VLT VISIR &lt;a href=&#34;https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.253D.002&#34; target=&#34;_blank&#34;&gt;111.253D.002&lt;/a&gt; (PI: Bardet) - &lt;em&gt;Saturn&amp;rsquo;s northern summer hemisphere through the eyes of VLT and JWST&lt;/em&gt;, 2.0 hours awarded.
+* VLT VISIR &lt;a href=&#34;https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.255R&#34; target=&#34;_blank&#34;&gt;111.255R&lt;/a&gt; (PI: Roman) - &lt;em&gt;Weather or Not? Understanding Neptune&amp;rsquo;s Surprising Atmospheric Variability with VLT-VISIR&lt;/em&gt;, 8 hours awarded.&lt;/p&gt;
 
 &lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
 
